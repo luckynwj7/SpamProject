@@ -1,0 +1,17 @@
+
+Hi rladydcks03@kaggle.com,
+
+You’re now part of the world’s largest data science community. Welcome, we’re glad you’re here!
+
+Whether you’re new to machine learning or a renowned expert, we want to support you with free, powerful tools and resources to help you grow as a data scientist.
+
+So, where’s the best place to start?
+
+We highly recommend trying out our no-pressure Titanic competition. You’ll be challenged to predict which passengers survived the infamous 1912 shipwreck.
+
+Check out the Titanic Machine Learning Competition
+
+It’s a really fun and fast way to get a strong grasp of how our platform works. You’ll become more familiar with how our Notebooks (online coding environment with free GPUs), open datasets, and discussion tools work together to help you build data science projects.
+
+Happy exploring,
+Alexis from Kaggle
